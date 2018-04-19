@@ -1,0 +1,9 @@
+﻿  Utilities.cpp
+  Splash.cpp
+  Menu.cpp
+c:\c++\finalproject\finalproject\menu.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\c++\finalproject\finalproject\menu.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  FinalProject.vcxproj -> C:\C++\FinalProject\Debug\FinalProject.exe
+  FinalProject.vcxproj -> C:\C++\FinalProject\Debug\FinalProject.pdb (Full PDB)

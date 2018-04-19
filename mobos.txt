@@ -1,0 +1,20 @@
+Motherboard Name               Socket   Form Factor Ram slots  Max Ram        price
+====================================================================================
+MSI B350 PC MATE	            AM4	        ATX	        4	    64GB	 	$70.00	
+MSI B350M GAMING PRO	        AM4	Micro   ATX	        2	    32GB	 	$49.99	
+Asus ROG STRIX Z370-E GAMING	LGA1151	    ATX	        4	    64GB	 	$189.49	
+MSI Z370-A PRO	                LGA1151	    ATX	        4	    64GB	 	$89.99	
+Asus STRIX B350-F GAMING	    AM4	        ATX	        4	    64GB	 	$89.89	
+Asus Prime Z370-A	            LGA1151	    ATX	        4	    64GB	 	$149.89	
+MSI B350 TOMAHAWK	            AM4	        ATX	        4	    64GB	 	$77.29	
+MSI B250M PRO-VD	            LGA1151	    Micro ATX	2	    32GB	 	$46.88	
+MSI Z370 GAMING PLUS	        LGA1151	    ATX	        4	    64GB	 	$99.89	
+Gigabyte B360M DS3H	            LGA1151	    Micro ATX	4	    64GB	 	$67.66	
+MSI Z270-A PRO	                LGA1151	    ATX	        4	    64GB	 	$94.99	
+Gigabyte GA-AB350N-Gaming WIFI 	AM4	        Mini ITX	2	    32GB	 	$111.94	
+Gigabyte GA-H110M-A	            LGA1151	    Micro ATX	2	    32GB	 	$44.39	
+Asus ROG Strix Z370-I Gaming	LGA1151	    Mini ITX	2	    32GB	 	$179.07	
+Gigabyte Z370P D3	            LGA1151	    ATX	        4	    64GB	 	$104.95	
+Asus ROG MAXIMUS X HERO 	    LGA1151	    ATX	        4	    64GB	 	$258.99  
+ASRock A320M	                AM4	Micro   ATX	        2	    32GB	 	$48.26	
+Asus MAXIMUS VIII HERO	        LGA1151  	ATX	        4	    64GB	 	$147.28
