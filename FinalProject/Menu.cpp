@@ -483,6 +483,25 @@ int aboutUsText()
 	return 0;
 }
 
+int ceo()
+{
+	string line;
+	ifstream myfile("ceo.txt");
+	if (myfile.is_open())
+	{
+		while (getline(myfile, line))
+		{
+			cout << line << '\n';
+		}
+		system("pause");
+		myfile.close();
+	}
+
+	else cout << "Unable to open file";
+
+	return 0;
+}
+
 void aboutUs()
 {
 	char selection;
@@ -498,10 +517,12 @@ void aboutUs()
 		gotoxy(50, 11);
 		cout << " 1. About us!\n"; 
 		gotoxy(50, 12);
-		cout << " 2. Back to the Main Menu. \n";
+		cout << " 2. A picture of the current CEO. \n";
 		gotoxy(50, 13);
-		cout << " ====================================\n";
+		cout << " 3. Back to the Main Menu. \n";
 		gotoxy(50, 14);
+		cout << " ====================================\n";
+		gotoxy(50, 15);
 		cout << " Please select an option from above: ";
 		cin >> selection;
 		cout << endl;
@@ -511,7 +532,10 @@ void aboutUs()
 		case '1':
 			aboutUsText();
 			break;
-	case '2':
+		case '2':
+			ceo();
+			break;
+	case '3':
 			return;
 
 		default: cout << selection << " is not a valid menu item.\n";
