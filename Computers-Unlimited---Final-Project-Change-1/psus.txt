@@ -1,0 +1,13 @@
+MODEL               PRICE   MAKE    MAX DC    Efficiency
+========================================================
+Corsair SF450        $103  CORSAIR   450W       80+ GOLD
+Bitfenix BWG550M     $100  Bitfenix  550W       80+ GOLD
+Corsair RM550X       $100  Corsair 	 550w	    80+ GOLD
+EVGA SuperNova	     $90   EVGA	     550W       80+ gold
+Seasonic SSR-600W    $200  Seasonic  600W       80+ Titanium
+Corsair RM650M       $65   Corsair   650W       80+ Bronze
+FSP Hydro G 650      $95   FSP       650W       80+ GOLD
+EVGA SuperNova 650   $130  EVGA      650W       80+ Platinum
+Corsair RM750x       $130  Corsair   750W       80+ GOLD
+Corsair HX1200       $230  Corsair   1200W      80+ Platinum
+Corsair AX1500i      $380  Corsair   1500W      80+ Platinum
